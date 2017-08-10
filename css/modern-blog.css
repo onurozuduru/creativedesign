@@ -62,7 +62,7 @@
     margin-right: auto;
 }
 
-.card__copy p img.emoji {
+.card__copy .emoji {
     display: inline;
     margin: unset;
 }
