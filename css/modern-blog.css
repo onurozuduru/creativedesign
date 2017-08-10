@@ -55,7 +55,7 @@
 	background: #fff;
 }
 
-.card__content .card__copy p img {
+.card__copy p img {
     max-width: 75%;
     display: block;
     margin-left: auto;
