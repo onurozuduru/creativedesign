@@ -60,11 +60,11 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
 
-    .emoji {
-        display: inline;
-        margin: unset;
-    }
+.card__copy .emoji {
+    display: inline;
+    margin: unset;
 }
 
 .card__content .meta__avatar {
