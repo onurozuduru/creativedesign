@@ -62,6 +62,11 @@
     margin-right: auto;
 }
 
+.card__copy p img.emoji {
+    display: inline;
+    margin: unset;
+}
+
 .card__content .meta__avatar {
     margin-left: unset;
     margin-right: unset;
