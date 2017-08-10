@@ -55,6 +55,18 @@
 	background: #fff;
 }
 
+.card__content img {
+    max-width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card__content .meta__avatar {
+    margin-left: unset;
+    margin-right: unset;
+}
+
 .card__container--closed .card__content {
 	margin-top: 0;
 	padding: 0 16px;
