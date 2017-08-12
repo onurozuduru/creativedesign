@@ -373,3 +373,20 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+/* Image Captions */
+.image-container {
+	position:relative;
+}
+.caption {
+	font: normal 1em/1.3em arial;
+	background:#fff;
+	color:#000;
+	position:absolute;
+	bottom:0;
+	left:0;
+	text-align:center;
+	width:100%;
+	opacity:.75;
+	filter:alpha(opacity=85);
+}
