@@ -24,7 +24,7 @@ In this post, there are two main parts:
 These were the elements that we had, tape and spaghetti to build a tower and pen,
 paper to design.
 
-![](img/ex1/0.jpg)
+![Our starter kit](img/ex1/0.jpg){:class="image-caption"}
 
 Rules:
 
@@ -46,7 +46,7 @@ Our idea was to use tape as support material and making a tower on top of triang
 We thought to make it more strong by putting crosses to every faces. We planned to put
 a pyramid shape "roof" on top of the first "floor".
 
-![](img/ex1/1.jpg)
+![Design](img/ex1/1.jpg){:class="image-caption"}
 
 Above was our quick sketch and calculation.
 
@@ -90,4 +90,4 @@ I will make it better.
 So, this was the end of first `blog post/exercise documentation`.
 You can see the very last result of today's lecture.
 
-![](img/ex1/4.jpg)
+![Dust to Dust, Garbage to Garbage](img/ex1/4.jpg){:class="image-caption"}

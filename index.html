@@ -33,6 +33,7 @@ layout: compress
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css"/>
     <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
+    <link rel="stylesheet" type="text/css" href="css/pastie-theme.css"/>
     <!--[if IE]>
     <script type="text/javascript" src="js/vendors/html5.min.js"></script>
     <![endif]-->
@@ -105,5 +106,34 @@ layout: compress
 <script src="js/vendors/cash.min.js"></script>
 <script src="js/card-modern-blog.js"></script>
 <script src="js/modern-blog.js"></script>
+<script>
+function insertAfter(newNode, referenceNode) {
+    referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+}
+function captionizeImages() {
+    if (!document.getElementsByTagName)
+        return false;
+    if (!document.createElement)
+        return false;
+    var images = document.getElementsByTagName("img");
+    if (images.length < 1)
+        return false;
+    for (var i=0; i<images.length; i++) {
+        if (images[i].className.indexOf("image-caption") != -1) {
+            var altText = images[i].getAttribute("alt");
+            var divCaption = document.createElement("div");
+            divCaption.className = "caption";
+            var divCaptionText = document.createTextNode(altText);
+            divCaption.appendChild(divCaptionText);
+            var divContainer = document.createElement("div");
+            divContainer.className="image-container";
+            images[i].parentNode.insertBefore(divContainer, images[i]);
+            divContainer.appendChild(images[i]);
+            insertAfter(divCaption,images[i]);
+        }
+    }
+}
+captionizeImages();
+</script>
 </body>
 </html>
