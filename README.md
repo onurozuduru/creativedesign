@@ -1,4 +1,12 @@
-# Jekyll Modern Blog
+# Blog for Creative Design and Prototyping Course
+
+This is a Github-Pages Repo for the course that I took.
+
+I used [Jekyll Modern Blog](https://github.com/inded/Jekyll_modern-blog) theme, below part is from its *Readme* file.
+
+---
+
+## Jekyll Modern Blog
 
 A Simple, Clean and responsive modern blog for jekyll.
 
