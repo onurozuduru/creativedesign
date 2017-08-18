@@ -1,0 +1,54 @@
+---
+title:  "Exercise 3: Wallet Design"
+subtitle: "Design a new wallet for your teammate!"
+author: "Onur Özüduru"
+avatar: "img/authors/avatarTW.jpg"
+image: "img/Ex3.jpg"
+date:   2017-08-17
+---
+
+Today the exercise was about designing a new wallet for needs. First, we created a design in our minds and then we created one for our partner.
+
+This exercise was with 2 people and each of us designed a wallet for the other.
+
+## My Ideal Wallet
+
+![My Ideal Wallet](img/ex3/IMG_20170817_132755_1583181686.jpg){:class="image-caption"}
+
+In my designed, I focused my problem which is having too many credit cards and other plastic cards. I designed a foldable wallet which is size of a paper money when it is opened. And the half size of the money when it is folded.
+
+I thought, it is useful to have an e-paper as a screen on the outside of the wallet and embedded electronic material inside so, it would be possible to load card information on it. In that way, I aimed to solve carrying too many cards issue.
+
+## Designing a Wallet for My Partner
+
+Second part of the exercise was creating a wallet for my partner. That part had 9 stages. I took notes on the paper and put pictures of my notes and ideas below.
+
+I think challenges and notes explain themselves therefore, I will bot comment on them.
+
+![Stage 1 and 2: Interview.](img/ex3/IMG_20170817_152523_1583181686.jpg){:class="image-caption"}
+
+![Stage 3 and 4: Results and Findings from interview.](img/ex3/IMG_20170817_152550_-1557050318.jpg){:class="image-caption"}
+
+![Stage 5 and 6: Crazy solutions and reaction of my partner.](img/ex3/IMG_20170817_152608_1308403401.jpg){:class="image-caption"}
+
+![Stage 7: Design of a new solution.](img/ex3/IMG_20170817_152623_133307668.jpg){:class="image-caption"}
+
+![Stage 8 and 9: Make a quick prototype and get feedbacks.](img/ex3/IMG_20170817_152652_-1738843856.jpg){:class="image-caption"}
+
+![New Wallet](img/ex3/concat_f82081bb-601c-4f98-bf39-a5a1d2beb71f.png){:class="image-caption"}
+
+So, my idea was having a smart creadit card inside wallet and a foldable 3 pockets for cash. And it has one zipper to lock it.
+
+I found that my partner's problem was having cash and credit cards in a small place.
+
+## Reflection
+
+Today, we focused on creating a new solution for another person's needs.
+
+In my design, I got below feedbacks from my partner:
+
+- If there are too many coins, It might not be possible to use swape area of the card.
+
+- I thought screen can be turn off automatically, but my partner suggested that putting a cover for screen to protect screen from scratches and to not show your details everytime. This was a simple solution for that problem. *I wish I had it before.*
+
+I learned that digging deep to someone else's problem and finding out of the box solutions today. Therefore, it was the main point of today's exercise in my opinion.
