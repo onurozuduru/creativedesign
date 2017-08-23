@@ -1,0 +1,92 @@
+---
+title:  "Exercise 2: Create New Uses & Laser Cut"
+subtitle: "Create a design and use laser cutter."
+author: "Onur Özüduru"
+avatar: "img/authors/avatarTW.jpg"
+image: "img/Ex2.jpg"
+date:   2017-08-15
+---
+
+This lecture had two parts today. First part was about creating new uses from an existing object and the second part was about using laser cutter.
+
+## Creating New Uses
+
+This part of the course was individual work. Tasks were listed below:
+
+> - Making a list of new uses of clothes pegs.
+> - Then, focusing on those uses, think of a new concept of product (such that the product ceases to be a clothes peg).
+
+Of course, we had limited time to make it. The ideas that I found were;
+
+- Using them to close food packages.
+- Using them as holder when we glue two pieces.
+- Hanging photos.
+
+I took two ideas, closer for food packages and photo hanger, then I tried to find new concepts for them.
+
+My ideas and concept ideas are shown as below image.
+
+![creating new uses](img/ex2/IMG_20170815_135714_1583181686.jpg){:class="image-caption"}
+
+## Using Laser Cutter
+
+Second part of the course was about using laser cutter. We worked as 2 people teams at that stage.
+
+First we designed or found a design to cut. Then, we went to cutter and cut it.
+
+Every laser cutter has different settings, for the one that we used it is needed to be 0.02 mm stroke for cutting. Every other things are engraved by the cutter.
+
+My teammate and I decided to design one piece and cut another one that is predesined. We used [FlatFab](http://flatfab.com/) example files as predesigned object.
+
+![3D Model from FlatFab](img/ex2/IMG_20170815_154709_1583181686.jpg){:class="image-caption"}
+
+![SVG Output](img/ex2/IMG_20170815_150845_1583181686.jpg){:class="image-caption"}
+
+![3D Model and SVG converted version](img/ex2/concat_93095de3-c598-4801-8ae3-74d582c701d7.png){:class="image-caption"}
+
+Then, we created a new design in Inkscape.
+
+![](img/ex2/IMG_20170817_155722_133307668.jpg)
+
+After the design part, we cut both of the objects. Since, dino was needed very thin material to fit combination points. We used different woods for them.
+
+To use laser cutter there are 3 steps:
+
+- Set distance between cutter head and the material.
+- Set starting point.
+- Select the right settings for your material and send it to cutter.
+
+![Setting laser cutter.](img/ex2/IMG_20170822_151122_1308403401.jpg){:class="image-caption"}
+
+![Settings for material.](img/ex2/IMG_20170822_151315_133307668.jpg){:class="image-caption"}
+
+Below pictures show the engraving and cutting parts for the new design.
+
+![](img/ex2/IMG_20170822_151438_-1738843856.jpg)
+
+![](img/ex2/IMG_20170822_151549_483856819.jpg)
+
+![](img/ex2/IMG_20170822_151609_-1311447080.jpg)
+
+![](img/ex2/IMG_20170822_151700_767905045.jpg)
+
+![Final result.](img/ex2/IMG_20170822_152744_1583181686.jpg){:class="image-caption"}
+
+After we cut our design, we cut the dino with another material, steps were the same that is why I put only the result pictures.
+
+![After cutting.](img/ex2/IMG_20170822_153301_-1557050318.jpg){:class="image-caption"}
+
+![Dino bones :)](img/ex2/IMG_20170822_155123_133307668.jpg){:class="image-caption"}
+
+![Final Result](img/ex2/concat_d0c7be98-0758-4ff7-8f2f-e0a9ea369359.png){:class="image-caption"}
+
+## Reflection
+
+Point of the first part for me was to realize that we can create new designs based on old ideas. I learned to find and improve old designs. The most important point was the realizing that it is not needed to use objects for their purposes, they can be used out of their purpose.
+
+In the second part, I learned how to use laser cutter. However, cutting objects was not that smooth process. We faced the following issues:
+
+- Cutter did not cut the material deep enough so, it was not possible to take it out.
+- We moved material and then cut the object again without setting machine again. This caused as wrongly cut object.
+
+At the end, I saw some of the issues while using laser cutter and how to handle them.
