@@ -3,7 +3,7 @@ title:  "Exercise 2: Create New Uses & Laser Cut"
 subtitle: "Create a design and use laser cutter."
 author: "Onur Özüduru"
 avatar: "img/authors/avatarTW.jpg"
-image: "img/Ex2.jpg"
+image: "img/ex2.png"
 date:   2017-08-15
 ---
 
