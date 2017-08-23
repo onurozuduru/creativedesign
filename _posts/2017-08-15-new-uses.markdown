@@ -3,7 +3,7 @@ title:  "Exercise 2: Create New Uses & Laser Cut"
 subtitle: "Create a design and use laser cutter."
 author: "Onur Özüduru"
 avatar: "img/authors/avatarTW.jpg"
-image: "img/ex2.png"
+image: "img/ex2.jpg"
 date:   2017-08-15
 ---
 
@@ -36,7 +36,7 @@ First we designed or found a design to cut. Then, we went to cutter and cut it.
 
 Every laser cutter has different settings, for the one that we used it is needed to be 0.02 mm stroke for cutting. Every other things are engraved by the cutter.
 
-My teammate and I decided to design one piece and cut another one that is predesined. We used [FlatFab](http://flatfab.com/) example files as predesigned object.
+My teammate and I decided to design one piece and cut another one that is designed before hand. We used [FlatFab](http://flatfab.com/) example files as already designed object.
 
 ![3D Model from FlatFab](img/ex2/IMG_20170815_154709_1583181686.jpg){:class="image-caption"}
 
@@ -72,7 +72,7 @@ Below pictures show the engraving and cutting parts for the new design.
 
 ![Final result.](img/ex2/IMG_20170822_152744_1583181686.jpg){:class="image-caption"}
 
-After we cut our design, we cut the dino with another material, steps were the same that is why I put only the result pictures.
+After we cut our design, we cut the dinosaur with another material, steps were the same that is why I put only the result pictures.
 
 ![After cutting.](img/ex2/IMG_20170822_153301_-1557050318.jpg){:class="image-caption"}
 

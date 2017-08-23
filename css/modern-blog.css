@@ -392,3 +392,7 @@ a:focus {
 	opacity:.75;
 	filter:alpha(opacity=85);
 }
+
+blockquote {
+    background: #e1dede;
+}
