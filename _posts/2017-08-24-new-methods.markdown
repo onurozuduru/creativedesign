@@ -7,7 +7,7 @@ image: "img/ex5.jpg"
 date:   2017-08-24
 ---
 
-Today we leraned three creative ideatetion methods.
+Today we learned three creative ideatetion methods.
 
 - Property mapping method.
 - Mind map method.
