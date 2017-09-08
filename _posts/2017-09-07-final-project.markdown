@@ -4,7 +4,7 @@ subtitle: "Designing a seating object."
 author: "Onur Özüduru"
 avatar: "img/authors/avatarTW.jpg"
 image: "img/final.jpg"
-date:   2017-09-08
+date:   2017-09-07
 ---
 
 For the project of course, there were two options to make prototype: surprising
