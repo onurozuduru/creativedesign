@@ -65,4 +65,4 @@ Since, it is easy to decide measurement for material.
 
 At the end, I made a prototype that matches with my goal and learn how to make prototype.
 
-SVG file of the design can be found [here](files/seat.svg).
+SVG file of the design can be found [here](https://github.com/onurozuduru/creativedesign/blob/master/files/seat.svg).
